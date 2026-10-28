@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Pliki konfiguracyjne z sekretami
+.env
+.env.*
+
+# React
+node_modules/
+dist/
+
+# IDE
+.vscode/
